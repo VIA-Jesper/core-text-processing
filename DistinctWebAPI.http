@@ -1,0 +1,6 @@
+@DistinctWebAPI_HostAddress = http://localhost:5086
+
+GET {{DistinctWebAPI_HostAddress}}/api/Text
+Accept: application/json
+
+###
